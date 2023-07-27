@@ -1,0 +1,21 @@
+.footer{
+  display:flex;
+  flex-direction: row;
+  justify-content: space-between;
+  column-gap: 30%;
+  align-items:center;
+  background-color: rgb(226, 226, 226);
+  height:300px;
+  padding:0 15%;
+}
+
+.footer-contact{
+  color:rgb(130, 130, 130);
+}
+
+@media (max-width:1000px){
+  .footer{
+    flex-direction: column;
+    padding:15%;
+  }
+}
