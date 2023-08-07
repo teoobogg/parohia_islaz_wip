@@ -27,11 +27,16 @@
       height:200px;
     }
 
-    
-  }
-  .main-header-title{
-      font-size:250%;
+    .header-nav{
+      height:250px;
+      font-size:24px;
     }
+  }
+
+  .main-header-title{
+    font-size:250%;
+  }
+  
   .header-nav{
     background-color: rgb(105, 105, 105);
     display:flex;
@@ -47,6 +52,7 @@
     color:white;
     text-align: center;
   }
+
   
   .header-nav-link{
     padding:20px;
