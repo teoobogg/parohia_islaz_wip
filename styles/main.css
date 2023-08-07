@@ -1,0 +1,10 @@
+body{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family:'Dai Banna SIL';
+  /*padding-bottom:3000px;
+  padding-top:250px;*/
+  font-size:18px;
+  margin:0;
+}
